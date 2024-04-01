@@ -1,0 +1,472 @@
+/* screen - portfolio-work-page */
+
+.portfolio-work-page {
+  background-color: var(--main-white);
+  height: 3135px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-work-page .rectangle-1525-XXobjJ {
+  background-color: var(--dawn);
+  height: 33px;
+  left: 910px;
+  position: absolute;
+  top: 354px;
+  width: 169px;
+}
+
+.portfolio-work-page .navigation-bar-XXobjJ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 800px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-work-page .nav-m3QXD3 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 811px;
+  justify-content: center;
+  padding: 50px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-work-page .logo-rxXy9f {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-work-page .j-l-sKC8xk {
+  background-color: transparent;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-work-page .menu-rxXy9f {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-work-page .work-h0UQaS {
+  background-color: transparent;
+  height: 20px;
+  position: relative;
+  width: 49.60137939453125px;
+}
+
+.portfolio-work-page .work-xhMeU4 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-work-page .about-h0UQaS {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  position: relative;
+  width: 58.5296630859375px;
+}
+
+.portfolio-work-page .about-IukLp7 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-work-page .frame-3-XXobjJ {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 116px;
+  justify-content: center;
+  left: 160px;
+  position: absolute;
+  top: 352px;
+}
+
+.portfolio-work-page .hello-im-jiyoung-lee-PPYOLl {
+  background-color: transparent;
+  height: 129px;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  position: relative;
+  text-align: left;
+  width: 360px;
+}
+
+.portfolio-work-page .hi-im-a-passionate-u-PPYOLl {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 580px;
+}
+
+.portfolio-work-page .image-XXobjJ {
+  background-color: transparent;
+  height: 38px;
+  left: 160px;
+  position: absolute;
+  top: 616px;
+  width: 34px;
+}
+
+.portfolio-work-page .project_01-XXobjJ {
+  align-items: center;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 108px;
+  left: 160px;
+  position: absolute;
+  top: 757px;
+}
+
+.portfolio-work-page .description-THKord {
+  gap: 124px;
+}
+
+.portfolio-work-page .frame-1-sN4GZx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.portfolio-work-page .x01-grocery-on-budget-plvbHw {
+  background-color: transparent;
+  color: transparent;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-work-page .span1-R54uIn {
+  color: var(--primarymain);
+}
+
+.portfolio-work-page .new-yorkers-are-cook-plvbHw {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  text-align: left;
+  width: 356px;
+}
+
+.portfolio-work-page .link-plvbHw {
+  color: var(--main-black);
+  cursor: pointer;
+}
+
+.portfolio-work-page .img-sN4GZx {
+  height: 364.6781311035156px;
+}
+
+.portfolio-work-page .seperator-XXobjJ {
+  top: 1234px;
+}
+
+.portfolio-work-page .project_02-XXobjJ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 124px;
+  left: 160px;
+  position: absolute;
+  top: 1350px;
+}
+
+.portfolio-work-page .description-THvSc9 {
+  flex-direction: column;
+  gap: 40px;
+}
+
+.portfolio-work-page .x02-numera-vRIJsd {
+  background-color: transparent;
+  color: transparent;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-work-page .span1-CXnPmH {
+  color: #30983e;
+}
+
+.portfolio-work-page .link-vRIJsd {
+  color: var(--main-black);
+}
+
+.portfolio-work-page .img-THvSc9 {
+  height: 364.6781311035156px;
+}
+
+.portfolio-work-page .seperator-Rgpg2r {
+  top: 1827px;
+}
+
+.portfolio-work-page .project_03-XXobjJ {
+  top: 1942px;
+}
+
+.portfolio-work-page .description-xeDC4k {
+  flex-direction: column;
+  gap: 40px;
+}
+
+.portfolio-work-page .x03-apple-wallet-re-design-QDqaTs {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-work-page .link-QDqaTs {
+  color: var(--main-black);
+}
+
+.portfolio-work-page .img-xeDC4k {
+  height: 364.6781311035156px;
+}
+
+.portfolio-work-page .seperator-x5GT42 {
+  top: 2420px;
+}
+
+.portfolio-work-page .project_03-Rgpg2r {
+  top: 2535px;
+}
+
+.portfolio-work-page .description-k70bsR {
+  flex-direction: column;
+  gap: 40px;
+}
+
+.portfolio-work-page .x04-artingle-branding-KnYH58 {
+  background-color: transparent;
+  color: transparent;
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-work-page .span1-Qh40dT {
+  color: #e97451;
+}
+
+.portfolio-work-page .link-KnYH58 {
+  color: var(--main-gray);
+}
+
+.portfolio-work-page .img-k70bsR {
+  height: 364.67822265625px;
+}
+
+.portfolio-work-page .footer-XXobjJ {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 400px;
+  justify-content: center;
+  left: 0px;
+  padding: 50px;
+  position: absolute;
+  top: 3010px;
+  width: 1440px;
+}
+
+.portfolio-work-page .name-XqOWyx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-work-page .nuria-quero-2022-HxWc4v {
+  background-color: transparent;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 192px;
+}
+
+.portfolio-work-page .resume-dbZAmk {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-work-page .linkedin-yxXkdG {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-work-page .description {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-work-page .img {
+  background-color: transparent;
+  position: relative;
+  width: 640px;
+}
+
+.portfolio-work-page .link {
+  background-color: transparent;
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  line-height: 21.9px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-work-page .lorem-ipsum-dolor-si {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.9px;
+  position: relative;
+  text-align: left;
+  width: 356px;
+}
+
+.portfolio-work-page .project_03 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  left: 160px;
+  position: absolute;
+  width: 1120px;
+}
+
+.portfolio-work-page .seperator {
+  background-color: transparent;
+  height: 2px;
+  left: 160px;
+  position: absolute;
+  width: 1115px;
+}
+
+.portfolio-work-page .social-links {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-work-page .span0 {
+  font-style: normal;
+  letter-spacing: -0.10px;
+}
+
+.portfolio-work-page .span1 {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  letter-spacing: -0.10px;
+}

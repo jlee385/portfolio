@@ -1,0 +1,262 @@
+/* screen - portfolio-resume-page */
+
+.portfolio-resume-page {
+  background-color: var(--main-white);
+  height: 2460px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-resume-page .navigation-bar-jtQHbo {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 800px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-resume-page .nav-I8K0d9 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 811px;
+  justify-content: center;
+  padding: 50px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-resume-page .logo-icwELP {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-resume-page .title-9hOxeQ {
+  background-color: transparent;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-resume-page .menu-icwELP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-resume-page .work-3C65x1 {
+  background-color: transparent;
+  height: 20px;
+  position: relative;
+  width: 49.60137939453125px;
+}
+
+.portfolio-resume-page .work-6suaX3 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-resume-page .about-3C65x1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  position: relative;
+  width: 58.5296630859375px;
+}
+
+.portfolio-resume-page .about-V43XWv {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-resume-page .frame-30233-jtQHbo {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 112px;
+  left: 0px;
+  position: absolute;
+  top: 2028px;
+}
+
+.portfolio-resume-page .seperator-i8g8V2 {
+  background-color: transparent;
+  height: 2px;
+  position: relative;
+  width: 1120px;
+}
+
+.portfolio-resume-page .frame-30231-i8g8V2 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 156px;
+  position: relative;
+}
+
+.portfolio-resume-page .contact-Z7jshM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 298px;
+  position: relative;
+}
+
+.portfolio-resume-page .frame-15-gCNdxm {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-resume-page .feel-free-to-get-in-touch-tbC2VZ {
+  background-color: transparent;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 347px;
+}
+
+.portfolio-resume-page .image-tbC2VZ {
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  width: 24px;
+}
+
+.portfolio-resume-page .frame-14-gCNdxm {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 27px;
+  position: relative;
+}
+
+.portfolio-resume-page .leejiyoung91398gmailcom-O6My43 {
+  background-color: transparent;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-resume-page .footer-Z7jshM {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 400px;
+  justify-content: center;
+  padding: 50px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-resume-page .name-bbtpNL {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-resume-page .nuria-quero-2022-WdhqIX {
+  background-color: transparent;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 192px;
+}
+
+.portfolio-resume-page .resume-Xcy5Vr {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-resume-page .social-links-PSTkng {
+  cursor: pointer;
+}
+
+.portfolio-resume-page .linkedin-3xaCUN {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-resume-page .clip-path-group-jtQHbo {
+  background-color: transparent;
+  height: 1612px;
+  left: 161px;
+  position: absolute;
+  top: 284px;
+  width: 1118px;
+}
+
+.portfolio-resume-page .social-links {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}

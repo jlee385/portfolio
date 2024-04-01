@@ -1,0 +1,4959 @@
+/* screen - portfolio-grocery-on-budget-page */
+
+.portfolio-grocery-on-budget-page {
+  background-color: var(--main-white);
+  height: 10318px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-grocery-on-budget-page .project_-details-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 63px;
+  left: 160px;
+  position: absolute;
+  top: 252px;
+}
+
+.portfolio-grocery-on-budget-page .description-SCj5dj {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 44px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .headline-x5NBxo {
+  background-color: transparent;
+  height: 134px;
+  position: relative;
+  width: 609px;
+}
+
+.portfolio-grocery-on-budget-page .frame-4-IDaTkP {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 116px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .frame-3-IrhCAu {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .title-kgEFTZ {
+  background-color: transparent;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 609px;
+}
+
+.portfolio-grocery-on-budget-page .a-platform-that-allo-kgEFTZ {
+  background-color: transparent;
+  letter-spacing: -0.66px;
+  line-height: 33px;
+  position: relative;
+  text-align: left;
+  width: 601px;
+}
+
+.portfolio-grocery-on-budget-page .details-x5NBxo {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .role-5KzEfW {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 15px;
+  height: 51px;
+}
+
+.portfolio-grocery-on-budget-page .role-8LpBOE {
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-grocery-on-budget-page .product-designer-8LpBOE {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 400;
+  height: 17px;
+  line-height: 17.0px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 409px;
+}
+
+.portfolio-grocery-on-budget-page .client-5KzEfW {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.portfolio-grocery-on-budget-page .client-tMtc07 {
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-grocery-on-budget-page .the-client-name-tMtc07 {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17.0px;
+  position: relative;
+  text-align: left;
+  width: 315px;
+}
+
+.portfolio-grocery-on-budget-page .project-5KzEfW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .project-type-pZ0CwH {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-grocery-on-budget-page .app-design-website-design-pZ0CwH {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 17.0px;
+  position: relative;
+  text-align: left;
+  width: 315px;
+}
+
+.portfolio-grocery-on-budget-page .image-SCj5dj {
+  background-color: transparent;
+  height: 263px;
+  position: relative;
+  width: 449px;
+}
+
+.portfolio-grocery-on-budget-page .navigation-bar-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 800px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .nav-SnExYa {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 811px;
+  justify-content: center;
+  padding: 50px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-grocery-on-budget-page .logo-WY7Exa {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .j-l-O2SLGW {
+  background-color: transparent;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .menu-WY7Exa {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .work-lrBb6x {
+  background-color: transparent;
+  height: 20px;
+  position: relative;
+  width: 49.60137939453125px;
+}
+
+.portfolio-grocery-on-budget-page .work-TlkAKU {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .about-lrBb6x {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  position: relative;
+  width: 58.5296630859375px;
+}
+
+.portfolio-grocery-on-budget-page .about-GxbVYY {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-2-K8rcBV {
+  background-color: var(--alto);
+  height: 505px;
+  left: 0px;
+  position: absolute;
+  top: 773px;
+  width: 1440px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-3-K8rcBV {
+  height: 1219px;
+  top: 1660px;
+}
+
+.portfolio-grocery-on-budget-page .overview-K8rcBV {
+  background-color: transparent;
+  color: var(--subheading-color);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 24.3px;
+  position: absolute;
+  text-align: left;
+  top: 808px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .desk-research-K8rcBV {
+  background-color: transparent;
+  color: var(--subheading-color);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 24.3px;
+  position: absolute;
+  text-align: left;
+  top: 1695px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .frame-22-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 160px;
+  position: absolute;
+  top: 857px;
+}
+
+.portfolio-grocery-on-budget-page .background-oISbCm {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 29.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-grocery-on-budget-page .span0-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span1-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span2-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span3-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span4-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span5-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span6-2craai {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .research-indicated-t-K8rcBV {
+  background-color: transparent;
+  height: 33px;
+  left: 160px;
+  letter-spacing: -0.66px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 1744px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .span0-BQfyIg {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span1-BQfyIg {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span2-BQfyIg {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span3-BQfyIg {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .span4-BQfyIg {
+  letter-spacing: -0.15px;
+}
+
+.portfolio-grocery-on-budget-page .we-have-compared-4-b-K8rcBV {
+  background-color: transparent;
+  height: 30px;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 2985px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .personas-are-set-acc-K8rcBV {
+  background-color: transparent;
+  height: 30px;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 5364px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .we-have-conducted-in-K8rcBV {
+  background-color: transparent;
+  height: 30px;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 4561px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .the-cost-of-dining-o-K8rcBV {
+  background-color: transparent;
+  height: 60px;
+  left: 160px;
+  letter-spacing: -0.60px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1789px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .frame-23-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 160px;
+  position: absolute;
+  top: 1069px;
+}
+
+.portfolio-grocery-on-budget-page .design-process-H29A0M {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 19px;
+  line-height: 29.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 326.2135925292969px;
+}
+
+.portfolio-grocery-on-budget-page .initial-thinking-K8rcBV {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 29.2px;
+  position: absolute;
+  text-align: left;
+  top: 1359px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .frame-28-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 143px;
+  left: 160px;
+  position: absolute;
+  top: 1447px;
+  width: 1120px;
+}
+
+.portfolio-grocery-on-budget-page .frame-24-2JF09g {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 410px;
+}
+
+.portfolio-grocery-on-budget-page .target-users-RElASP {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24.3px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 407.15234375px;
+}
+
+.portfolio-grocery-on-budget-page .students-in-nyc-seek-RElASP {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 27px;
+  position: relative;
+  text-align: left;
+  width: 409.9345703125px;
+}
+
+.portfolio-grocery-on-budget-page .frame-25-2JF09g {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 468px;
+}
+
+.portfolio-grocery-on-budget-page .research-methods-E9AbVE {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24.3px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 468px;
+}
+
+.portfolio-grocery-on-budget-page .virtual-interviews-g-E9AbVE {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: -0.54px;
+  line-height: 27px;
+  position: relative;
+  text-align: left;
+  width: 468px;
+}
+
+.portfolio-grocery-on-budget-page .group-3350-K8rcBV {
+  background-color: transparent;
+  height: 329px;
+  left: 160px;
+  position: absolute;
+  top: 1905px;
+  width: 499px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1524-yrFCZi {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--alto-2);
+  border-radius: 12px;
+  box-shadow: -4px 4px 10px #878bb026;
+  height: 329px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 499px;
+}
+
+.portfolio-grocery-on-budget-page .group-3349-yrFCZi {
+  background-color: transparent;
+  height: 213px;
+  left: 36px;
+  position: absolute;
+  top: 93px;
+  width: 442px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30207-GOwXqZ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 7px;
+  left: 0px;
+  position: absolute;
+  top: 30px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30205-YtgnDe {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 46px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .x700-k-okTLqN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x650-k-okTLqN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x600-k-okTLqN {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-30204-YtgnDe {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .line-62-5ZfxCD {
+  background-color: transparent;
+  height: 2px;
+  margin-top: -2.00px;
+  position: relative;
+  width: 380px;
+}
+
+.portfolio-grocery-on-budget-page .line-63-5ZfxCD {
+  background-color: transparent;
+  height: 2px;
+  position: relative;
+  width: 380px;
+}
+
+.portfolio-grocery-on-budget-page .line-64-5ZfxCD {
+  background-color: transparent;
+  height: 2px;
+  position: relative;
+  width: 399.3798828125px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30206-GOwXqZ {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 105px;
+  left: 90px;
+  position: absolute;
+  top: 192px;
+}
+
+.portfolio-grocery-on-budget-page .x2019-znxcAj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x2022-znxcAj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x2023-znxcAj {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x703000-stores-GOwXqZ {
+  background-color: transparent;
+  color: #898989;
+  font-family: var(--font-family-pretendard-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 61px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .group-3282-GOwXqZ {
+  background-color: transparent;
+  height: 46px;
+  left: 319px;
+  position: absolute;
+  top: 86px;
+  width: 120px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1522-WvQRDq {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+
+.portfolio-grocery-on-budget-page .x630-k-stores-WvQRDq {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .polygon-5-WvQRDq {
+  background-color: transparent;
+  height: 10px;
+  left: 64px;
+  position: absolute;
+  top: 36px;
+  width: 11px;
+}
+
+.portfolio-grocery-on-budget-page .group-3348-GOwXqZ {
+  background-color: transparent;
+  height: 127px;
+  left: 96px;
+  position: absolute;
+  top: 23px;
+  width: 304px;
+}
+
+.portfolio-grocery-on-budget-page .vector-71-oBYPs9 {
+  background-color: transparent;
+  height: 122px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 298px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-118-oBYPs9 {
+  background-color: var(--martinique);
+  border-radius: 7px;
+  height: 14px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 14px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-119-oBYPs9 {
+  background-color: var(--martinique);
+  border-radius: 7px;
+  height: 14px;
+  left: 138px;
+  position: absolute;
+  top: 112px;
+  width: 14px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-120-oBYPs9 {
+  background-color: var(--martinique);
+  border-radius: 7px;
+  height: 14px;
+  left: 290px;
+  position: absolute;
+  top: 113px;
+  width: 14px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29935-yrFCZi {
+  align-items: center;
+  background-color: #2e2c48;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 8px;
+  justify-content: center;
+  left: 28px;
+  padding: 8px 16px;
+  position: absolute;
+  top: 19px;
+}
+
+.portfolio-grocery-on-budget-page .no-of-restaurants-in-WDrjjC {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-pretendard-semibold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x2024-02-17-0049-1-K8rcBV {
+  background-color: transparent;
+  height: 349px;
+  left: 666px;
+  object-fit: cover;
+  position: absolute;
+  top: 1899px;
+  width: 621px;
+}
+
+.portfolio-grocery-on-budget-page .x2024-02-17-0051-1-K8rcBV {
+  background-color: transparent;
+  height: 89px;
+  left: 675px;
+  object-fit: cover;
+  position: absolute;
+  top: 2160px;
+  width: 612px;
+}
+
+.portfolio-grocery-on-budget-page .source-httpswwwchosu-K8rcBV {
+  background-color: transparent;
+  color: #797979;
+  font-family: var(--font-family-pretendard-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2253px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .source-httpswwwmkcok-K8rcBV {
+  background-color: transparent;
+  color: #797979;
+  font-family: var(--font-family-pretendard-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 680px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: left;
+  top: 2253px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .x2024-02-16-1454-1-K8rcBV {
+  background-color: transparent;
+  height: 419px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 2300px;
+  width: 559px;
+}
+
+.portfolio-grocery-on-budget-page .source-httpswwwbloom-K8rcBV {
+  background-color: transparent;
+  color: #8a8a8a;
+  font-family: var(--font-family-pretendard-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 160px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 2779px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .source-httpswwwcirca-K8rcBV {
+  background-color: transparent;
+  color: #8a8a8a;
+  font-family: var(--font-family-pretendard-regular);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 724px;
+  letter-spacing: 0.00px;
+  line-height: 15px;
+  position: absolute;
+  text-align: center;
+  top: 2779px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .frame-29943-K8rcBV {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.7126805782318115px solid;
+  border-color: var(--alto-2);
+  border-radius: 8.55px;
+  box-shadow: -2.850722312927246px 2.850722312927246px 7.126805782318115px #878bb026;
+  display: flex;
+  flex-direction: column;
+  gap: 5.701444625854492px;
+  height: 399px;
+  left: 738px;
+  padding: 20px;
+  position: absolute;
+  top: 2306px;
+  width: 495px;
+}
+
+.portfolio-grocery-on-budget-page .x2024-02-17-0059-1-eVuuYV {
+  background-color: transparent;
+  height: 358.7848205566406px;
+  object-fit: cover;
+  position: relative;
+  width: 453.0048828125px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29930-K8rcBV {
+  border: 1px solid;
+  border-color: var(--alto-2);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 7.590482234954834px;
+  left: 813px;
+  top: 2558px;
+}
+
+.portfolio-grocery-on-budget-page .x86-of-all-meals-thro-m2atkf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 419.5576171875px;
+}
+
+.portfolio-grocery-on-budget-page .span0-DxmgbQ {
+}
+
+.portfolio-grocery-on-budget-page .span1-DxmgbQ {
+}
+
+.portfolio-grocery-on-budget-page .span2-DxmgbQ {
+}
+
+.portfolio-grocery-on-budget-page .span3-DxmgbQ {
+}
+
+.portfolio-grocery-on-budget-page .span4-DxmgbQ {
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1522-m2atkf {
+  background-color: var(--lemon-glacier);
+  height: 21px;
+  left: 274px;
+  position: absolute;
+  top: 74px;
+  width: 158px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1523-m2atkf {
+  background-color: var(--lemon-glacier);
+  height: 21px;
+  left: 15px;
+  position: absolute;
+  top: 97px;
+  width: 132px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1524-m2atkf {
+  background-color: var(--lemon-glacier);
+  height: 21px;
+  left: 285px;
+  position: absolute;
+  top: 97px;
+  width: 158px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29930-dY4l2Z {
+  border-radius: 16px;
+  display: flex;
+  gap: 10px;
+  left: 212px;
+  top: 2582px;
+  width: 508px;
+}
+
+.portfolio-grocery-on-budget-page .according-to-a-bloom-ZmS20J {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  margin-left: -15.34px;
+  margin-right: -15.34px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 490.6748046875px;
+}
+
+.portfolio-grocery-on-budget-page .span0-nxCkEd {
+}
+
+.portfolio-grocery-on-budget-page .span1-nxCkEd {
+}
+
+.portfolio-grocery-on-budget-page .span2-nxCkEd {
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1519-ZmS20J {
+  background-color: var(--lemon-glacier);
+  height: 32px;
+  left: 207px;
+  position: absolute;
+  top: 46px;
+  width: 194px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1520-ZmS20J {
+  background-color: var(--lemon-glacier);
+  height: 22px;
+  left: 9px;
+  position: absolute;
+  top: 98px;
+  width: 472px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1521-ZmS20J {
+  background-color: var(--lemon-glacier);
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 120px;
+  width: 453px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1522-ZmS20J {
+  background-color: var(--lemon-glacier);
+  height: 24px;
+  left: 9px;
+  position: absolute;
+  top: 144px;
+  width: 299px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30208-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 16px;
+  left: 176px;
+  position: absolute;
+  top: 3046px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29870-aEnExB {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: #c81e24;
+  border-radius: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 450px;
+  justify-content: center;
+  padding: 120px 24px;
+  position: relative;
+  width: 260px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29862-9uRefh {
+  background-color: transparent;
+  height: 200px;
+  margin-top: -93.00px;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29864-9uRefh {
+  margin-bottom: -93.00px;
+}
+
+.portfolio-grocery-on-budget-page .trader-joes-whCqXL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .affordable-prices-pr-whCqXL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-M40v5z {
+}
+
+.portfolio-grocery-on-budget-page .span1-M40v5z {
+}
+
+.portfolio-grocery-on-budget-page .span2-M40v5z {
+}
+
+.portfolio-grocery-on-budget-page .span3-M40v5z {
+}
+
+.portfolio-grocery-on-budget-page .span4-M40v5z {
+}
+
+.portfolio-grocery-on-budget-page .frame-29871-aEnExB {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: #046f46;
+  border-radius: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 450px;
+  justify-content: center;
+  padding: 40px 24px;
+  position: relative;
+  width: 260px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29867-JdyVBf {
+  background-color: transparent;
+  height: 200px;
+  margin-top: -13.00px;
+  overflow: hidden;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .group-ApmSKG {
+  height: 48px;
+  left: 6px;
+  top: 76px;
+  width: 189px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29864-JdyVBf {
+  margin-bottom: -13.00px;
+  margin-left: -15.50px;
+  margin-right: -15.50px;
+}
+
+.portfolio-grocery-on-budget-page .whole-foods-market-oqa3r0 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .organic-items-only-c-oqa3r0 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-Mx3lek {
+}
+
+.portfolio-grocery-on-budget-page .span1-Mx3lek {
+}
+
+.portfolio-grocery-on-budget-page .span2-Mx3lek {
+}
+
+.portfolio-grocery-on-budget-page .frame-29872-aEnExB {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: #ed1b23;
+  border-radius: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 450px;
+  justify-content: center;
+  padding: 24px 12px;
+  position: relative;
+  width: 260px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29868-5mbGN7 {
+  background-color: transparent;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .group-sM12k9 {
+  height: 43px;
+  left: 1px;
+  top: 79px;
+  width: 198px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29865-5mbGN7 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 180px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .h-mart-TslIKH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .korean-market-can-or-TslIKH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-GVhTEh {
+}
+
+.portfolio-grocery-on-budget-page .span1-GVhTEh {
+}
+
+.portfolio-grocery-on-budget-page .span2-GVhTEh {
+}
+
+.portfolio-grocery-on-budget-page .frame-29873-aEnExB {
+  align-items: center;
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: #cc0000;
+  border-radius: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 450px;
+  justify-content: center;
+  padding: 40px 24px;
+  position: relative;
+  width: 260px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29934-vIeK43 {
+  background-color: transparent;
+  height: 200px;
+  margin-top: -13.00px;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29866-vIeK43 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 180px;
+  margin-bottom: -13.00px;
+  margin-left: -4.00px;
+  margin-right: -4.00px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .wegmans-I6msNa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .can-order-online-and-I6msNa {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-o9zheI {
+}
+
+.portfolio-grocery-on-budget-page .span1-o9zheI {
+}
+
+.portfolio-grocery-on-budget-page .line-65-K8rcBV {
+  background-color: transparent;
+  height: 1px;
+  left: 160px;
+  object-fit: cover;
+  position: absolute;
+  top: 3543px;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30219-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 160px;
+  position: absolute;
+  top: 3592px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30029-N2oOfa {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--forest-green);
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  padding: 12px 52px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-57-bZj80N {
+  background-color: transparent;
+  height: 50px;
+  overflow: hidden;
+  position: relative;
+  width: 50px;
+}
+
+.portfolio-grocery-on-budget-page .group-25-JVEb4L {
+  background-color: transparent;
+  height: 36px;
+  left: 7px;
+  position: relative;
+  top: 7px;
+  width: 35px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-18-lusPJ0 {
+  background-color: transparent;
+  border: 3px solid;
+  border-color: var(--black);
+  border-radius: 16.16px;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .line-6-lusPJ0 {
+  background-color: transparent;
+  height: 11px;
+  left: 25px;
+  position: absolute;
+  top: 26px;
+  width: 11px;
+}
+
+.portfolio-grocery-on-budget-page .searching-for-egg-on-bZj80N {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .group-3351-N2oOfa {
+  background-color: transparent;
+  height: 532px;
+  position: relative;
+  width: 1109.4482421875px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1524-FkiEt4 {
+  background-color: #f9f9f9;
+  height: 451px;
+  left: 0px;
+  position: absolute;
+  top: 81px;
+  width: 1109px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30036-FkiEt4 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 52px;
+  left: 26px;
+  position: absolute;
+  top: 105px;
+}
+
+.portfolio-grocery-on-budget-page .search-result-7SNL2N {
+  background-color: transparent;
+  height: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 89px;
+}
+
+.portfolio-grocery-on-budget-page .price-comparison-7SNL2N {
+  background-color: transparent;
+  height: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 89px;
+}
+
+.portfolio-grocery-on-budget-page .order-delivery-and-pick-up-7SNL2N {
+  background-color: transparent;
+  height: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 89px;
+}
+
+.portfolio-grocery-on-budget-page .linked-with-offline-market-7SNL2N {
+  background-color: transparent;
+  height: 60px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 89px;
+}
+
+.portfolio-grocery-on-budget-page .line-21-FkiEt4 {
+  background-color: transparent;
+  height: 3px;
+  left: -2px;
+  position: absolute;
+  top: 80px;
+  width: 1110px;
+}
+
+.portfolio-grocery-on-budget-page .line-30-FkiEt4 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 1108px;
+}
+
+.portfolio-grocery-on-budget-page .line-22-FkiEt4 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 1109px;
+}
+
+.portfolio-grocery-on-budget-page .line-23-FkiEt4 {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 1109px;
+}
+
+.portfolio-grocery-on-budget-page .line-24-FkiEt4 {
+  background-color: transparent;
+  height: 3px;
+  left: -2px;
+  position: absolute;
+  top: 528px;
+  width: 1110px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30209-FkiEt4 {
+  background-color: transparent;
+  height: 447px;
+  left: 137px;
+  position: absolute;
+  top: 82px;
+  width: 721px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30218-FkiEt4 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 70px;
+  left: 166px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30217-RD9Oz6 {
+  background-color: transparent;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30210-RD9Oz6 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30030-STwVZT {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29965-7AyzDJ {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  height: 58px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .can-only-see-their-egg-brand-D1knOL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x-7AyzDJ {
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-29991-7AyzDJ {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  height: 88px;
+}
+
+.portfolio-grocery-on-budget-page .cant-order-online-and-pick-up-MH3xMh {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 211px;
+}
+
+.portfolio-grocery-on-budget-page .x-dIgLud {
+  height: 87px;
+  width: 16px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30031-STwVZT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29987-FBcrz2 {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  height: 58px;
+}
+
+.portfolio-grocery-on-budget-page .can-see-multiple-egg-brands-GF4Zj7 {
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-29992-FBcrz2 {
+  background-color: transparent;
+  gap: 32px;
+  height: 88px;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .can-order-online-thr-8e9x1o {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .x-FBcrz2 {
+  height: 87px;
+  width: 16px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30032-STwVZT {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  justify-content: center;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .no-result-K8j7kV {
+  background-color: transparent;
+  height: 58px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: 93px;
+}
+
+.portfolio-grocery-on-budget-page .x-K8j7kV {
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-29993-K8j7kV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 32px;
+  height: 88px;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .cant-online-order-and-pick-up-odlK76 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .x-jGGhCp {
+  height: 87px;
+  width: 16px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30216-STwVZT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30215-GzMsQx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30214-RgzEIZ {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30213-vGOx2O {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30212-TKvj2e {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30211-xvEfxw {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30033-mg5nzS {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29989-OSlHA2 {
+  background-color: transparent;
+  gap: 32px;
+  height: 58px;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .can-see-multiple-egg-brands-hhXp57 {
+  margin-left: -55.30px;
+  margin-right: -55.30px;
+  width: 310.6015625px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29994-OSlHA2 {
+  background-color: transparent;
+  gap: 32px;
+  height: 88px;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .online-order-pick-up-UD5fMv {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995-OSlHA2 {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  height: 87px;
+}
+
+.portfolio-grocery-on-budget-page .upon-selecting-the-l-kmgx3Y {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29986-N2oOfa {
+  align-items: center;
+  background-color: #13ba60;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  height: 148px;
+  padding: 24px 0px;
+  position: relative;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .insight-5crxQd {
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .wegmans-seems-to-pro-5crxQd {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .comparison-of-4-mark-K8rcBV {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 29.2px;
+  position: absolute;
+  text-align: left;
+  top: 2933px;
+  white-space: nowrap;
+  width: 638px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-3-dY4l2Z {
+  height: 777px;
+  top: 4487px;
+}
+
+.portfolio-grocery-on-budget-page .user-research-K8rcBV {
+  background-color: transparent;
+  color: var(--subheading-color);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 24.3px;
+  position: absolute;
+  text-align: left;
+  top: 4522px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .personas-K8rcBV {
+  background-color: transparent;
+  color: var(--subheading-color);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 24.3px;
+  position: absolute;
+  text-align: left;
+  top: 5311px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .user-journey-map-K8rcBV {
+  background-color: transparent;
+  color: var(--subheading-color);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 160px;
+  line-height: 24.3px;
+  position: absolute;
+  text-align: left;
+  top: 6259px;
+  white-space: nowrap;
+  width: 326px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30220-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 32px;
+  left: 160px;
+  position: absolute;
+  top: 4640px;
+}
+
+.portfolio-grocery-on-budget-page .group-3299-RtE9uz {
+  background-color: transparent;
+  height: 119.2930908203125px;
+  position: relative;
+  width: 119.2930908203125px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-124-qrtawf {
+  background-color: #f3fbfd;
+  border-radius: 59.65px;
+  height: 119px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 119px;
+}
+
+.portfolio-grocery-on-budget-page .artboard-74-qrtawf {
+  background-color: transparent;
+  height: 100px;
+  left: 18px;
+  position: absolute;
+  top: 16px;
+  width: 84px;
+}
+
+.portfolio-grocery-on-budget-page .shape-5TLJ6d {
+  height: 85px;
+  left: 5px;
+  width: 65px;
+}
+
+.portfolio-grocery-on-budget-page .path-5TLJ6d {
+  height: 49px;
+  left: 0px;
+  top: 51px;
+  width: 84px;
+}
+
+.portfolio-grocery-on-budget-page .path-xxQ9Oe {
+  height: 15px;
+  left: 28px;
+  top: 51px;
+  width: 26px;
+}
+
+.portfolio-grocery-on-budget-page .oval-5TLJ6d {
+  background-color: #f2a196;
+  border-radius: 6.3px;
+  height: 13px;
+  left: 12px;
+  position: absolute;
+  top: 33px;
+  width: 13px;
+}
+
+.portfolio-grocery-on-budget-page .oval-xxQ9Oe {
+  background-color: #e88870;
+  border-radius: 6.3px;
+  height: 13px;
+  left: 14px;
+  position: absolute;
+  top: 32px;
+  width: 13px;
+}
+
+.portfolio-grocery-on-budget-page .path-YSsDBf {
+  height: 55px;
+  left: 18px;
+  top: 8px;
+  width: 44px;
+}
+
+.portfolio-grocery-on-budget-page .path-Oj8YK9 {
+  height: 4px;
+  left: 39px;
+  top: 48px;
+  width: 7px;
+}
+
+.portfolio-grocery-on-budget-page .path-6fAWPF {
+  height: 13px;
+  left: 46px;
+  top: 31px;
+  width: 5px;
+}
+
+.portfolio-grocery-on-budget-page .path-RPn0dQ {
+  height: 2px;
+  left: 52px;
+  top: 26px;
+  width: 9px;
+}
+
+.portfolio-grocery-on-budget-page .path-5fwJfc {
+  height: 2px;
+  left: 30px;
+  top: 28px;
+  width: 12px;
+}
+
+.portfolio-grocery-on-budget-page .path-UvUbOz {
+  height: 3px;
+  left: 35px;
+  top: 33px;
+  width: 3px;
+}
+
+.portfolio-grocery-on-budget-page .path-Y9rAPF {
+  height: 3px;
+  left: 53px;
+  top: 32px;
+  width: 3px;
+}
+
+.portfolio-grocery-on-budget-page .path-WoVGP4 {
+  height: 32px;
+  left: 14px;
+  top: 4px;
+  width: 34px;
+}
+
+.portfolio-grocery-on-budget-page .path-epkk1o {
+  height: 36px;
+  left: 0px;
+  top: 64px;
+  width: 84px;
+}
+
+.portfolio-grocery-on-budget-page .path-LeMYaU {
+  height: 28px;
+  left: 9px;
+  top: 5px;
+  width: 34px;
+}
+
+.portfolio-grocery-on-budget-page .group-3300-RtE9uz {
+  background-color: transparent;
+  height: 116px;
+  position: relative;
+  width: 762px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29950-AIiHho {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 21px;
+  padding: 28px 40px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .was-there-anything-t-y4gvW4 {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-aHo5LK {
+}
+
+.portfolio-grocery-on-budget-page .span1-aHo5LK {
+}
+
+.portfolio-grocery-on-budget-page .span2-aHo5LK {
+}
+
+.portfolio-grocery-on-budget-page .span3-aHo5LK {
+}
+
+.portfolio-grocery-on-budget-page .span4-aHo5LK {
+}
+
+.portfolio-grocery-on-budget-page .vector-72-AIiHho {
+  background-color: transparent;
+  height: 29px;
+  left: 4px;
+  position: absolute;
+  top: 53px;
+  width: 24px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30055-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 40px;
+  left: 160px;
+  position: absolute;
+  top: 4807px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30054-CYvexR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  justify-content: center;
+  position: relative;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .artboard-30_1-SLWX0V {
+  background-color: transparent;
+  height: 84.62564849853516px;
+  position: relative;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30050-SLWX0V {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30049-pHewwX {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  justify-content: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .joanna-y32-OFHGgL {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .employee-OFHGgL {
+  line-height: 27px;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .there-were-so-many-t-pHewwX {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .span0-8FmKGV {
+}
+
+.portfolio-grocery-on-budget-page .span1-8FmKGV {
+}
+
+.portfolio-grocery-on-budget-page .span2-8FmKGV {
+}
+
+.portfolio-grocery-on-budget-page .frame-30051-CYvexR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .artboard-69-kx55qR {
+  background-color: transparent;
+  height: 84.7944564819336px;
+  position: relative;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30010-kx55qR {
+  background-color: transparent;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30008-xerBKp {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 12px;
+}
+
+.portfolio-grocery-on-budget-page .joshua-l27-yGcULl {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .employee-yGcULl {
+  line-height: 27px;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .i-usually-go-for-gro-xerBKp {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .span0-cqnxcl {
+}
+
+.portfolio-grocery-on-budget-page .span1-cqnxcl {
+}
+
+.portfolio-grocery-on-budget-page .span2-cqnxcl {
+}
+
+.portfolio-grocery-on-budget-page .frame-30052-CYvexR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .artboard-76-QHbOri {
+  background-color: transparent;
+  height: 84.9937973022461px;
+  position: relative;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .shape-b2zkvk {
+  height: 58px;
+  left: 0px;
+  width: 58px;
+}
+
+.portfolio-grocery-on-budget-page .path-b2zkvk {
+  height: 41px;
+  left: 0px;
+  top: 44px;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .path-nhh29K {
+  height: 15px;
+  left: 23px;
+  top: 43px;
+  width: 21px;
+}
+
+.portfolio-grocery-on-budget-page .path-eEFfOf {
+  height: 21px;
+  left: 0px;
+  top: 64px;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .oval-b2zkvk {
+  background-color: #f2d4cf;
+  border-radius: 5.25px;
+  height: 11px;
+  left: 10px;
+  position: absolute;
+  top: 28px;
+  width: 11px;
+}
+
+.portfolio-grocery-on-budget-page .oval-nhh29K {
+  background-color: #daaea8;
+  border-radius: 5.25px;
+  height: 11px;
+  left: 12px;
+  position: absolute;
+  top: 28px;
+  width: 11px;
+}
+
+.portfolio-grocery-on-budget-page .path-9zkI8p {
+  height: 46px;
+  left: 15px;
+  top: 7px;
+  width: 37px;
+}
+
+.portfolio-grocery-on-budget-page .path-9qMS7x {
+  height: 2px;
+  left: 41px;
+  top: 23px;
+  width: 7px;
+}
+
+.portfolio-grocery-on-budget-page .path-KzGxIA {
+  height: 2px;
+  left: 26px;
+  top: 23px;
+  width: 10px;
+}
+
+.portfolio-grocery-on-budget-page .oval-eEFfOf {
+  background-color: #00214e;
+  border-radius: 1.01px/2.45px;
+  height: 5px;
+  left: 29px;
+  position: absolute;
+  top: 27px;
+  transform: rotate(-85.77deg);
+  width: 2px;
+}
+
+.portfolio-grocery-on-budget-page .oval-9zkI8p {
+  background-color: #00214e;
+  border-radius: 2.45px/1.01px;
+  height: 2px;
+  left: 44px;
+  position: absolute;
+  top: 27px;
+  transform: rotate(-13.23deg);
+  width: 5px;
+}
+
+.portfolio-grocery-on-budget-page .path-8WmyaS {
+  height: 6px;
+  left: 41px;
+  top: 32px;
+  width: 2px;
+}
+
+.portfolio-grocery-on-budget-page .path-6EIoFq {
+  height: 3px;
+  left: 36px;
+  top: 34px;
+  width: 2px;
+}
+
+.portfolio-grocery-on-budget-page .path-qDrwYG {
+  height: 4px;
+  left: 31px;
+  top: 39px;
+  width: 9px;
+}
+
+.portfolio-grocery-on-budget-page .path-UcHJx2 {
+  height: 25px;
+  left: 14px;
+  top: 3px;
+  width: 35px;
+}
+
+.portfolio-grocery-on-budget-page .path-JCnaXe {
+  height: 19px;
+  left: 8px;
+  top: 5px;
+  width: 34px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30011-QHbOri {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30008-IA2cPh {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 12px;
+}
+
+.portfolio-grocery-on-budget-page .sara-h22-bACxBf {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .student-bACxBf {
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.portfolio-grocery-on-budget-page .i-usually-order-groc-IA2cPh {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .span0-o3rRKC {
+}
+
+.portfolio-grocery-on-budget-page .span1-o3rRKC {
+}
+
+.portfolio-grocery-on-budget-page .span2-o3rRKC {
+}
+
+.portfolio-grocery-on-budget-page .frame-30053-CYvexR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  position: relative;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .artboard-79-tTm8uB {
+  background-color: transparent;
+  height: 83.63623046875px;
+  position: relative;
+  width: 70px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30012-tTm8uB {
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 250px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30008-J2BoFe {
+  background-color: transparent;
+  display: inline-flex;
+  gap: 12px;
+}
+
+.portfolio-grocery-on-budget-page .michaela-p24-lyRWLS {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .student-lyRWLS {
+  line-height: 27px;
+  white-space: nowrap;
+}
+
+.portfolio-grocery-on-budget-page .since-i-live-alone-i-J2BoFe {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: relative;
+  text-align: left;
+  width: 200px;
+}
+
+.portfolio-grocery-on-budget-page .span0-VZjcHx {
+}
+
+.portfolio-grocery-on-budget-page .span1-VZjcHx {
+}
+
+.portfolio-grocery-on-budget-page .span2-VZjcHx {
+}
+
+.portfolio-grocery-on-budget-page .frame-30023-K8rcBV {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 72px;
+  left: 224px;
+  position: absolute;
+  top: 5411px;
+  width: 992px;
+}
+
+.portfolio-grocery-on-budget-page .sophia-k-tJWb2q {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .x23-tJWb2q {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .student-tJWb2q {
+  line-height: normal;
+}
+
+.portfolio-grocery-on-budget-page .group-3302-FIpC0Y {
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-123-VF3E9k {
+  border-radius: 79.92px/80px;
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .mask-group-VF3E9k {
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .i-have-been-invited-FIpC0Y {
+  background-color: transparent;
+  height: 94px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+  width: 390px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30011-fwtnZf {
+  background-color: var(--white-2);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+}
+
+.portfolio-grocery-on-budget-page .planned-wqFRNF {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-30012-fwtnZf {
+  background-color: var(--white-2);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+}
+
+.portfolio-grocery-on-budget-page .smart-uUSu1i {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .freshmen-year-sxXt8O {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .ive-been-invited-to-CcADhn {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-bottom: -30.00px;
+  position: relative;
+  text-align: left;
+  width: 380px;
+}
+
+.portfolio-grocery-on-budget-page .i-want-to-purchase-i-o99DXD {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30018-FYOnwF {
+  margin-left: -5.50px;
+  margin-right: -5.50px;
+}
+
+.portfolio-grocery-on-budget-page .william-p-V8viBq {
+  background-color: transparent;
+  height: 20.38791847229004px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.portfolio-grocery-on-budget-page .x27-V8viBq {
+  background-color: transparent;
+  height: 20.38791847229004px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: 22px;
+}
+
+.portfolio-grocery-on-budget-page .employee-V8viBq {
+  height: 20.38791847229004px;
+  line-height: normal;
+  width: 93px;
+}
+
+.portfolio-grocery-on-budget-page .group-3303-euOIK2 {
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-128-ifTnlj {
+  border-radius: 80px;
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .mask-group-ifTnlj {
+  height: 160px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .my-spending-on-groce-euOIK2 {
+  background-color: transparent;
+  height: 94px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+  width: 390px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30011-woUroK {
+  background-color: var(--white-2);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+}
+
+.portfolio-grocery-on-budget-page .workaholic-PZIGTH {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-30012-woUroK {
+  background-color: var(--white-2);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+}
+
+.portfolio-grocery-on-budget-page .impulsive-tLlsbd {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .developer-EN7qdu {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .starting-this-week-i-08mBxx {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-bottom: -3.00px;
+  position: relative;
+  text-align: left;
+  width: 380px;
+}
+
+.portfolio-grocery-on-budget-page .i-want-to-set-my-bud-qhUdAm {
+  align-self: stretch;
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .group-3367-K8rcBV {
+  background-color: transparent;
+  height: 855px;
+  left: 163px;
+  position: absolute;
+  top: 6319px;
+  width: 1118px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30228-pC8wgd {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30042-gPlpwn {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .group-3302-y1wpwx {
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-123-WYxdqp {
+  border-radius: 15.98px/16px;
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .mask-group-WYxdqp {
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .sophia-kim-uses-mult-y1wpwx {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-YGnrH4 {
+  font-style: normal;
+}
+
+.portfolio-grocery-on-budget-page .span1-YGnrH4 {
+  font-style: normal;
+}
+
+.portfolio-grocery-on-budget-page .group-3364-gPlpwn {
+  background-color: transparent;
+  height: 801px;
+  position: relative;
+  width: 1117.80908203125px;
+}
+
+.portfolio-grocery-on-budget-page .group-3357-xFv5x7 {
+  background-color: transparent;
+  height: 801px;
+  left: 12px;
+  position: absolute;
+  top: 0px;
+  width: 1106px;
+}
+
+.portfolio-grocery-on-budget-page .group-3356-DTDyU0 {
+  background-color: transparent;
+  height: 101px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 69px;
+}
+
+.portfolio-grocery-on-budget-page .steps-Axzhn9 {
+  left: 9px;
+}
+
+.portfolio-grocery-on-budget-page .thinks-Axzhn9 {
+  top: 80px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30223-DTDyU0 {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 17px;
+  left: 106px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30221-kQY6VY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30062-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 164px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30061-AxzQJ3 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29987-wajrNa {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .list-out-the-ingredients-BlNBdS {
+  background-color: transparent;
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-29994-wajrNa {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .let-me-write-down-in-Inp4Hu {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30065-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 26px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30064-SoxwqR {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .search-for-markets-nearby-F6f53C {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30063-5zoQwE {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995-xcwkEa {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .i-want-to-buy-ingred-64BHq0 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995-PuwwdP {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .i-think-trader-joes-fjVLVN {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30068-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 26px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30067-XEBnrN {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29989-FUaI07 {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  gap: 10px;
+  height: 83px;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .visit-trader-joes-IqqtrD {
+  background-color: transparent;
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30066-FUaI07 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30000-0xKjNh {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .they-dont-have-reddi-e2qZf8 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30007-0xKjNh {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .maybe-i-should-go-to-LxaT3p {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30071-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 26px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30070-dNzFUr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .visit-whole-foods-l2Wz7S {
+  background-color: transparent;
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30069-PwxP5h {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .oh-no-they-dont-sell-vaxLsP {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30008-6VcSL8 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .its-been-an-hour-sin-4Bl6ix {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30073-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 164px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30072-A0biJS {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29991-nBY3rU {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .visit-h-mart-AHxhpE {
+  background-color: transparent;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: 125px;
+}
+
+.portfolio-grocery-on-budget-page .thank-god-they-have-C0elW4 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30076-PngsPb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30075-TUrdLu {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29992-d8pIpr {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .finish-buying-ingredients-j3GIfG {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30074-d8pIpr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .wasted-so-much-of-my-udmVgz {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30009-PFE6vE {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .things-like-ham-were-0z2Mr5 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30222-kQY6VY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  justify-content: flex-end;
+  position: relative;
+  width: 832px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30006-SjdZtN {
+  align-items: center;
+  background-color: var(--everglade);
+  border-radius: 7px;
+  display: flex;
+  gap: 12px;
+  height: 80px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+  width: 497px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30010-SjdZtN {
+  background-color: var(--everglade);
+  border-radius: 7px;
+  gap: 8px;
+  height: 80px;
+  justify-content: center;
+  padding: 12px 20px;
+  width: 327px;
+}
+
+.portfolio-grocery-on-budget-page .group-3355-xFv5x7 {
+  background-color: transparent;
+  height: 377px;
+  left: 0px;
+  position: absolute;
+  top: 368px;
+  width: 101px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-32-qs3xS1 {
+  left: 81px;
+  top: 1px;
+}
+
+.portfolio-grocery-on-budget-page .group-3354-qs3xS1 {
+  background-color: transparent;
+  height: 377px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 84px;
+}
+
+.portfolio-grocery-on-budget-page .emotions-N5zqB8 {
+  left: -50px;
+  top: 153px;
+}
+
+.portfolio-grocery-on-budget-page .insight-N5zqB8 {
+  height: auto;
+  left: 0px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 353px;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .group-3353-N5zqB8 {
+  background-color: transparent;
+  height: 336px;
+  left: 4px;
+  position: absolute;
+  top: 0px;
+  width: 71px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30224-Y2BcM1 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 4px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .good-amJxdW {
+  height: 16.849111557006836px;
+  position: relative;
+  width: 35.68047332763672px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-12-amJxdW {
+  height: 31.71597671508789px;
+  position: relative;
+  width: 31.71597671508789px;
+}
+
+.portfolio-grocery-on-budget-page .arrow-5-Y2BcM1 {
+  height: 256px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30225-Y2BcM1 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  left: 7px;
+  position: absolute;
+  top: 304px;
+}
+
+.portfolio-grocery-on-budget-page .bad-n9MljW {
+  height: 16.849111557006836px;
+  position: relative;
+  width: 25.769229888916016px;
+}
+
+.portfolio-grocery-on-budget-page .pouting-face-n9MljW {
+  height: 31.719999313354492px;
+  position: relative;
+  width: 31.719999313354492px;
+}
+
+.portfolio-grocery-on-budget-page .group-3366-pC8wgd {
+  background-color: transparent;
+  height: 219px;
+  left: 178px;
+  position: absolute;
+  top: 497px;
+  width: 881px;
+}
+
+.portfolio-grocery-on-budget-page .vector-2-HBMxeb {
+  height: 170px;
+  left: 4px;
+  top: 26px;
+  width: 856px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-8-HBMxeb {
+  top: 38px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-26-HBMxeb {
+  background-color: transparent;
+  height: 40px;
+  left: 672px;
+  object-fit: cover;
+  position: absolute;
+  top: 140px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pouting-face-HBMxeb {
+  height: 47px;
+  left: 505px;
+  position: absolute;
+  top: 171px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .yawning-face-HBMxeb {
+  background-color: transparent;
+  height: 47px;
+  left: 841px;
+  object-fit: cover;
+  position: absolute;
+  top: 87px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-28-HBMxeb {
+  background-color: transparent;
+  height: 40px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30043-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 20px;
+  left: 158px;
+  position: absolute;
+  top: 7228px;
+}
+
+.portfolio-grocery-on-budget-page .group-3303-6QBxuV {
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-128-zXtkpQ {
+  border-radius: 16px;
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .mask-group-zXtkpQ {
+  height: 32px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .william-parker-tends-6QBxuV {
+  background-color: transparent;
+  color: transparent;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .span0-O0qelu {
+  font-style: normal;
+}
+
+.portfolio-grocery-on-budget-page .span1-O0qelu {
+  font-style: normal;
+}
+
+.portfolio-grocery-on-budget-page .group-3363-K8rcBV {
+  background-color: transparent;
+  height: 979px;
+  left: 158px;
+  position: absolute;
+  top: 7282px;
+  width: 1125px;
+}
+
+.portfolio-grocery-on-budget-page .group-3362-K2foZP {
+  background-color: transparent;
+  height: 837px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1129px;
+}
+
+.portfolio-grocery-on-budget-page .steps-C95EZO {
+  left: 0px;
+}
+
+.portfolio-grocery-on-budget-page .thinks-C95EZO {
+  top: 101px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30226-C95EZO {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 8px;
+  left: 125px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30086-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 269px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30080-8wa6fE {
+  align-items: flex-end;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29987-YYRYIH {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .create-shopping-list-HDKyaw {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-29994-YYRYIH {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .starting-now-i-will-DKSOyk {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30087-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30079-reFiFd {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .stop-by-nearby-market-1eVALw {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30078-dJvzsw {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995-or6XE6 {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .lets-start-buying-th-SwFuXX {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995-jQcowo {
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .is-it-just-this-stor-NhpMA1 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30088-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 269px;
+  height: 770px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30081-jHA572 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29989-JRVcFd {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  gap: 10px;
+  height: 83px;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .visit-wholefoods-ntGODj {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-29996-JRVcFd {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .apples-are-on-promot-6xtZA5 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1515-jHA572 {
+  margin-bottom: -39.00px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30089-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 206px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30082-XssLpC {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .pick-up-items-needed-VRzduJ {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .i-had-my-shopping-li-DJ2A3R {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30090-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 132px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30084-cMq9zc {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29991-YLr7ez {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .purchase-4NQz4q {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .frame-30083-YLr7ez {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .wow-is-this-the-queue-to-the-register-PDGrJ8 {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .it-seems-like-there-iGZV7p {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30091-UPc0Hr {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 206px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30085-Fjovkx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29992-xbrwwm {
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .back-home-tHt1fC {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .next-time-i-should-j-xMj9Hg {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .group-3360-C95EZO {
+  background-color: transparent;
+  height: 363px;
+  left: 10px;
+  position: absolute;
+  top: 474px;
+  width: 99px;
+}
+
+.portfolio-grocery-on-budget-page .insight-nbd1b9 {
+  height: auto;
+  left: 17px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 339px;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .group-3359-nbd1b9 {
+  background-color: transparent;
+  height: 335px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.portfolio-grocery-on-budget-page .emotions-9gh8Tz {
+  left: -53px;
+  top: 114px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-32-9gh8Tz {
+  left: 77px;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .group-3358-9gh8Tz {
+  background-color: transparent;
+  height: 321px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 75px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-12-MmCSC3 {
+  height: 32px;
+  left: 40px;
+  position: absolute;
+  top: 0px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .pouting-face-MmCSC3 {
+  height: 32px;
+  left: 32px;
+  position: absolute;
+  top: 289px;
+  width: 32px;
+}
+
+.portfolio-grocery-on-budget-page .good-MmCSC3 {
+  height: auto;
+  left: 0px;
+  position: absolute;
+  top: 9px;
+  width: 36px;
+}
+
+.portfolio-grocery-on-budget-page .arrow-5-MmCSC3 {
+  height: 241px;
+}
+
+.portfolio-grocery-on-budget-page .bad-MmCSC3 {
+  height: auto;
+  left: 7px;
+  position: absolute;
+  top: 302px;
+  width: 26px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30029-K2foZP {
+  background-color: var(--everglade);
+  border-radius: 7px;
+  display: flex;
+  gap: 12px;
+  left: 292px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 817px;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .needs-service-to-com-C6FSwP {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-30044-K2foZP {
+  align-items: center;
+  background-color: var(--everglade);
+  border-radius: 7px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  left: 462px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 817px;
+  width: 158px;
+}
+
+.portfolio-grocery-on-budget-page .needs-service-to-view-promotions-5Wuyfj {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .frame-79-K2foZP {
+  align-items: center;
+  background-color: var(--everglade);
+  border-radius: 7px;
+  display: flex;
+  gap: 12px;
+  height: 104px;
+  justify-content: center;
+  left: 628px;
+  padding: 12px 20px;
+  position: absolute;
+  top: 817px;
+  width: 495px;
+}
+
+.portfolio-grocery-on-budget-page .needs-service-for-on-3UDW3I {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .group-3365-K8rcBV {
+  background-color: transparent;
+  height: 217px;
+  left: 336px;
+  position: absolute;
+  top: 7815px;
+  width: 884px;
+}
+
+.portfolio-grocery-on-budget-page .vector-2-rXUhCz {
+  height: 174px;
+  left: 21px;
+  top: 20px;
+  width: 844px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-8-rXUhCz {
+  top: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-14-rXUhCz {
+  background-color: transparent;
+  height: 40px;
+  left: 336px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-20-rXUhCz {
+  background-color: transparent;
+  height: 40px;
+  left: 504px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .face-with-rolling-eyes-rXUhCz {
+  left: 672px;
+  top: 85px;
+}
+
+.portfolio-grocery-on-budget-page .face-with-rolling-eyes-X7FJkU {
+  left: 0px;
+  object-fit: cover;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .pouting-face-rXUhCz {
+  height: 47px;
+  left: 844px;
+  position: absolute;
+  top: 170px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .footer-K8rcBV {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 400px;
+  justify-content: center;
+  left: 0px;
+  padding: 50px;
+  position: absolute;
+  top: 10193px;
+  width: 1440px;
+}
+
+.portfolio-grocery-on-budget-page .name-MM4Vxm {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .nuria-quero-2022-y4QiDB {
+  background-color: transparent;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 192px;
+}
+
+.portfolio-grocery-on-budget-page .resume-qtjjLX {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-grocery-on-budget-page .linkedin-xOBOXx {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-grocery-on-budget-page .arrow-5 {
+  background-color: transparent;
+  left: 52px;
+  object-fit: cover;
+  position: absolute;
+  top: 43px;
+  width: 7px;
+}
+
+.portfolio-grocery-on-budget-page .bad {
+  background-color: transparent;
+  color: #ff1e00;
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .behavior {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .can-see-multiple-egg-brands {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}
+
+.portfolio-grocery-on-budget-page .client {
+  background-color: transparent;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-123 {
+  background-color: #f2dcc7;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-125 {
+  background-color: var(--alto);
+  border-radius: 3px;
+  height: 6px;
+  position: relative;
+  width: 6px;
+}
+
+.portfolio-grocery-on-budget-page .ellipse-128 {
+  background-color: #cbc7f2;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .emotions {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  transform: rotate(-90.00deg);
+  width: 130px;
+}
+
+.portfolio-grocery-on-budget-page .employee {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.portfolio-grocery-on-budget-page .face-with-rolling-eyes {
+  background-color: transparent;
+  height: 40px;
+  position: absolute;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29718 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 80px;
+  position: relative;
+  width: 100%;
+}
+
+.portfolio-grocery-on-budget-page .frame-29719 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 107px;
+  position: relative;
+  width: 100%;
+}
+
+.portfolio-grocery-on-budget-page .frame-29721 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29722 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 0px 0px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 280px;
+  justify-content: center;
+  padding: 20px 40px 40px;
+  position: relative;
+  width: 460px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29864 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 180px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29930 {
+  align-items: center;
+  background-color: var(--white);
+  box-shadow: -4px 4px 10px #878bb026;
+  justify-content: center;
+  padding: 24px;
+  position: absolute;
+}
+
+.portfolio-grocery-on-budget-page .frame-29987 {
+  align-items: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29988 {
+  align-items: center;
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29989 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29990 {
+  align-items: center;
+  background-color: var(--primarymain);
+  border-radius: 8px;
+  display: flex;
+  gap: 10px;
+  height: 83px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29991 {
+  align-items: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29992 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29994 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29995 {
+  align-items: center;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-29997 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29998 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .frame-29999 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--forest-green);
+  border-radius: 8px;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30008 {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30010 {
+  align-items: center;
+  display: flex;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30011 {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30012 {
+  align-items: center;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30013 {
+  align-items: center;
+  background-color: var(--white-2);
+  border-radius: 12px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 16px 20px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30014 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 16px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30015 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30016 {
+  align-items: center;
+  background-color: #12ba5f;
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 52px;
+  padding: 32px 20px;
+  position: relative;
+  width: 460px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30017 {
+  align-items: flex-start;
+  background-color: transparent;
+  box-shadow: 0px 4px 6px #00000040;
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  position: relative;
+  width: 460px;
+}
+
+.portfolio-grocery-on-budget-page .frame-30018 {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .frame-30029 {
+  align-items: center;
+  justify-content: center;
+}
+
+.portfolio-grocery-on-budget-page .good {
+  background-color: transparent;
+  color: #3afaa7;
+  font-family: var(--font-family-pretendard-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .group {
+  background-color: transparent;
+  position: absolute;
+}
+
+.portfolio-grocery-on-budget-page .group-3302 {
+  background-color: transparent;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .group-3303 {
+  background-color: transparent;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .in-response-to-econo {
+  background-color: transparent;
+  letter-spacing: -0.66px;
+  line-height: 33px;
+  position: relative;
+  text-align: left;
+  width: 1121px;
+}
+
+.portfolio-grocery-on-budget-page .insight {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  white-space: nowrap;
+}
+
+.portfolio-grocery-on-budget-page .line-48 {
+  background-color: transparent;
+  height: 18px;
+  position: relative;
+  width: 2px;
+}
+
+.portfolio-grocery-on-budget-page .line-49 {
+  background-color: transparent;
+  height: 18px;
+  position: relative;
+  width: 2px;
+}
+
+.portfolio-grocery-on-budget-page .mask-group {
+  background-color: transparent;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .need-service-where-u {
+  background-color: transparent;
+  flex: 1;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: left;
+}
+
+.portfolio-grocery-on-budget-page .needs {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .o {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .path {
+  background-color: transparent;
+  position: absolute;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-12 {
+  background-color: transparent;
+  object-fit: cover;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-18 {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pngwing-8 {
+  background-color: transparent;
+  height: 40px;
+  left: 168px;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.portfolio-grocery-on-budget-page .pouting-face {
+  background-color: transparent;
+  object-fit: cover;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1513 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1514 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1515 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1516 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-1517 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-3 {
+  background-color: var(--alto);
+  left: 0px;
+  position: absolute;
+  width: 1440px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-32 {
+  background: linear-gradient(180deg, rgb(124.00000020861626, 209.00000274181366, 137.00000703334808) 0%, rgb(247.00000047683716, 253.0000001192093, 192.00000375509262) 47.72949516773224%, rgb(255, 190.0000038743019, 126.00000008940697) 98.95833134651184%);
+  background-color: transparent;
+  border-radius: 100px;
+  height: 335px;
+  position: absolute;
+  width: 20px;
+}
+
+.portfolio-grocery-on-budget-page .rectangle-35 {
+  background: linear-gradient(180deg, rgb(120.68828031420708, 207.5195261836052, 135.0513195991516) 0%, rgb(253.71566891670227, 254.91284787654877, 195.05561739206314) 53.125%, rgb(255, 186.21806681156158, 122.7270533144474) 100%);
+  background-color: transparent;
+  height: 335px;
+  position: relative;
+  width: 160px;
+}
+
+.portfolio-grocery-on-budget-page .role {
+  background-color: transparent;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .shape {
+  background-color: transparent;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-grocery-on-budget-page .social-links {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-grocery-on-budget-page .steps {
+  background-color: transparent;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .student {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.portfolio-grocery-on-budget-page .thinks {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-grocery-on-budget-page .vector-2 {
+  background-color: transparent;
+  position: absolute;
+}
+
+.portfolio-grocery-on-budget-page .x {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: relative;
+  text-align: center;
+}

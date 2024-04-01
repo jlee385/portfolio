@@ -1,0 +1,433 @@
+/* screen - portfolio-about-page */
+
+.portfolio-about-page {
+  background-color: var(--main-white);
+  height: 1964px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-about-page .frame-9-eoxqTx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 4px;
+  height: 905px;
+  left: 160px;
+  position: absolute;
+  top: 252px;
+}
+
+.portfolio-about-page .hi-im-jiyoung-lee-coffee-addict-2rx0JN {
+  background-color: transparent;
+  height: 199px;
+  letter-spacing: -1.80px;
+  line-height: 58.3px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 507px;
+}
+
+.portfolio-about-page .hey-there-im-jiyoung-2rx0JN {
+  background-color: transparent;
+  color: var(--main-gray);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 695.1698608398438px;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  position: relative;
+  text-align: left;
+  width: 575px;
+}
+
+.portfolio-about-page .mask-group-eoxqTx {
+  background-color: transparent;
+  height: 590px;
+  left: 859px;
+  position: absolute;
+  top: 252px;
+  width: 422px;
+}
+
+.portfolio-about-page .skills-eoxqTx {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 69px;
+  left: 160px;
+  position: absolute;
+  top: 1281px;
+}
+
+.portfolio-about-page .frame-11-lteiUn {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 64px;
+  position: relative;
+}
+
+.portfolio-about-page .main-software-BJg1iL {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  line-height: 21.9px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.portfolio-about-page .adobe-cc-figma-sketch-invision-BJg1iL {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-about-page .span0-8EmCrg {
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  letter-spacing: -0.10px;
+}
+
+.portfolio-about-page .frame-12-lteiUn {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 63px;
+  position: relative;
+}
+
+.portfolio-about-page .main-skills-8eXWK7 {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 500;
+  height: 20px;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.portfolio-about-page .ux-design-creative-d-8eXWK7 {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 401px;
+}
+
+.portfolio-about-page .frame-30229-eoxqTx {
+  align-items: center;
+  background-color: var(--dawn);
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 160px;
+  padding: 10px;
+  position: absolute;
+  top: 1211px;
+}
+
+.portfolio-about-page .view-resume-fXwDOQ {
+  background-color: transparent;
+  color: var(--main-black);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21.9px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-about-page .navigation-bar-eoxqTx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  gap: 800px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+}
+
+.portfolio-about-page .nav-EaVSKb {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 811px;
+  justify-content: center;
+  padding: 50px 0px;
+  position: relative;
+  width: 1440px;
+}
+
+.portfolio-about-page .logo-rs9vvt {
+  align-items: flex-start;
+  background-color: transparent;
+  cursor: pointer;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-about-page .j-l-T4s3qR {
+  background-color: transparent;
+  letter-spacing: -1.29px;
+  line-height: 51.6px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-about-page .menu-rs9vvt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
+
+.portfolio-about-page .work-tpn2BA {
+  background-color: transparent;
+  height: 20px;
+  position: relative;
+  width: 49.60137939453125px;
+}
+
+.portfolio-about-page .work-QEEEXK {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-about-page .about-tpn2BA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 20px;
+  position: relative;
+  width: 58.5296630859375px;
+}
+
+.portfolio-about-page .about-xmL2sc {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.portfolio-about-page .footer-eoxqTx {
+  left: 0px;
+  position: absolute;
+  top: 1839px;
+}
+
+.portfolio-about-page .social-links-NozA95 {
+  cursor: pointer;
+}
+
+.portfolio-about-page .frame-30232-eoxqTx {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 112px;
+  left: 0px;
+  position: absolute;
+  top: 1532px;
+}
+
+.portfolio-about-page .seperator-hXTCIz {
+  background-color: transparent;
+  height: 2px;
+  position: relative;
+  width: 1120px;
+}
+
+.portfolio-about-page .frame-30230-hXTCIz {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 156px;
+  position: relative;
+}
+
+.portfolio-about-page .contact-iGBcb5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 298px;
+  position: relative;
+}
+
+.portfolio-about-page .frame-15-Max0Rb {
+  align-items: center;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-about-page .feel-free-to-get-in-touch-6gQy0g {
+  background-color: transparent;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 347px;
+}
+
+.portfolio-about-page .image-6gQy0g {
+  background-color: transparent;
+  height: 21px;
+  position: relative;
+  width: 24px;
+}
+
+.portfolio-about-page .frame-14-Max0Rb {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 27px;
+  position: relative;
+}
+
+.portfolio-about-page .leejiyoung91398gmailcom-Ue2vSv {
+  background-color: transparent;
+  letter-spacing: -0.96px;
+  line-height: 37.4px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.portfolio-about-page .footer-iGBcb5 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.portfolio-about-page .social-links-BVOWrQ {
+  cursor: pointer;
+}
+
+.portfolio-about-page .social-links-fAHxx3 {
+  cursor: pointer;
+}
+
+.portfolio-about-page .footer {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 400px;
+  justify-content: center;
+  padding: 50px;
+  width: 1440px;
+}
+
+.portfolio-about-page .linkedin {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-about-page .name {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.portfolio-about-page .nuria-quero-2022 {
+  background-color: transparent;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  width: 192px;
+}
+
+.portfolio-about-page .resume {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: -0.63px;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 98.2108154296875px;
+}
+
+.portfolio-about-page .social-links {
+  align-items: flex-start;
+  background-color: transparent;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  position: relative;
+}
